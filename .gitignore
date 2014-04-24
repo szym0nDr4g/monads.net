@@ -4,3 +4,7 @@ obj
 
 # mstest test results
 TestResults
+/Src/Backup
+/Src/Monads.sln.ide
+/Src/Monads.v12.suo
+/Src/UpgradeLog.htm
